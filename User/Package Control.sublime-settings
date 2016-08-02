@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"SideBarEnhancements"
+	],
+	"theme": "Material-Theme.sublime-theme"
+}
